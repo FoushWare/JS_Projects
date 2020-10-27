@@ -26,3 +26,28 @@
 [fressStyle-web-Dev](https://github.com/FoushWare/fressStyle-web-Dev)
 
 [EcarWebsiteV1](https://github.com/FoushWare/EcarWebsiteV1)
+
+# Future_JS_Projects
+* FaceBook     Clone
+* Zoom         Clone
+* iMessage     Clone
+* Amazon       Clone
+* Whatsapp     Clone
+* Spotify      Clone
+* Messenger    Clone
+* Google       Clone
+* Netflex      Clone
+* Instagram    Clone
+* Discord      Clone
+* Twitter      Clone
+* AirBnB       Clone
+* Hulu         Clone
+* You Tube     Clone
+* TickTok      Clone
+* Tinder       Clone
+
+
+
+
+
+
